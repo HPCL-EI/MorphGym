@@ -1,2 +1,6 @@
-/visual/graphs/
-/visual/tools/
+.idea
+.idea/
+
+*.egg-info
+.DS_Store
+__pycache__/
