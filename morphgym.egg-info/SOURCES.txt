@@ -1,0 +1,7 @@
+README.md
+setup.py
+morphgym/__init__.py
+morphgym.egg-info/PKG-INFO
+morphgym.egg-info/SOURCES.txt
+morphgym.egg-info/dependency_links.txt
+morphgym.egg-info/top_level.txt
