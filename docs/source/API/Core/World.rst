@@ -1,6 +1,0 @@
-
-World
-===================
-
-.. autoclass:: morphgym.World
-

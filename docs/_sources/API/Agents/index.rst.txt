@@ -1,0 +1,12 @@
+2D
+========================================
+
+.. autoclass:: morphgym.agents.Dog2D
+
+
+
+Unimal
+========================================
+
+.. autoclass:: morphgym.agents.Unimal
+

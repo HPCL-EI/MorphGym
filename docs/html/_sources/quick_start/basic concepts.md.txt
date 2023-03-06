@@ -1,0 +1,13 @@
+
+
+# Basic Concepts
+
+## Embodied Intelligence
+
+An agent's intelligence benefits from both its body morphology and control policy. There are three key elements to construct embodied intelligence: 
+
+* Environments and tasks
+* Agent's Body Morphology
+* Agent's Control Policy
+
+The MorphGym is based on above concepts

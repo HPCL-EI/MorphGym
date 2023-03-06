@@ -1,7 +1,7 @@
 
 # from .morph_unimal import BodyUnimal
 from morphgym.agents.unimal.derl.envs.morphology import SymmetricUnimal
-from morphgym.agents.base.agent1 import Agent
+from morphgym.agents.base.agent import Agent
 
 import gymnasium
 
@@ -38,7 +38,7 @@ class UnimalMorphSpace(gymnasium.Space):
         path = self.unimal.save()
         return path
 
-class UnimalAgent(Agent):
+class Unimal(Agent):
     """
     The Unimal space proposed in DERL.
 
